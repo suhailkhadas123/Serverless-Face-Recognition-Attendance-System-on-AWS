@@ -1,0 +1,55 @@
+video, canvas {
+  max-height: 300px;
+  object-fit: cover;
+}
+
+
+#video, #canvas {
+  max-height: 220px;
+  width: 100%;
+  object-fit: cover;
+}
+.custom-btn {
+  background-color: #d4d59b; 
+  color: #fff;
+  border-color: #d4d59b;
+}
+
+.custom-btn:hover {
+  background-color: #c3c48f;
+  border-color: #c3c48f;
+}
+
+.custom-header {
+  background-color: #4a563e !important;
+}
+
+
+.custom-navbar {
+  background: linear-gradient(135deg, #4a563e, #5f6d4f);
+}
+
+.text-theme {
+  color: #4a563e;
+}
+
+
+.dashboard-card {
+  border: none;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  
+}
+
+
+.custom-btn {
+  background-color: #d4d59b;
+  color: #fff;
+  border: none;
+  border-radius: 14px;
+  padding: 10px 26px;
+  font-weight: 500;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  
+}
+
